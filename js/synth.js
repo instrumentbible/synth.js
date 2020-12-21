@@ -1,4 +1,4 @@
-import '/js/tween/tween.umd.js';
+import '../js/tween/tween.umd.js';
 
 // synth.js
 var AudioContext = window.AudioContext || window.webkitAudioContext;
