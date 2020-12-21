@@ -2,7 +2,7 @@
 # synth.js
 
 JavaScript library for audio synthesis.
-Try the [live demo].(https://instrumentbible.github.io/synth.js/).
+Try the [live demo](https://instrumentbible.github.io/synth.js/).
 
 
 
@@ -57,7 +57,7 @@ set _or_ get frequency
 if blank, it will return the current frequency
 ```js
 osc.hz();
-// ==> 440
+// 440
 ```
 or pass a value to set the frequency
 ```js
