@@ -21,7 +21,7 @@
 			</tr>
 		</table>
 <script type="module">
-	import * as SYNTH from '/js/synth.js';
+	import * as SYNTH from './js/synth.js';
 
 	//listen for first click
 	document.addEventListener("click", setup, { once: true });
@@ -57,7 +57,7 @@
    });
 
    var lfo = new SYNTH.LFO({
-	   type:'square',
+	   type:'sine',
 	   frequency: 200,
 	   gain: 0.8,
 	});
