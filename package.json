@@ -1,0 +1,23 @@
+{
+  "name": "@instrumentbible/synth.js",
+  "version": "1.0.0",
+  "description": "A JavaScript library for audio synthesis.",
+  "author": "Josh Stovall",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instrumentbible/synth.js.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/instrumentbible/synth.js/issues"
+  },
+  "homepage": "https://github.com/instrumentbible/synth.js#readme",
+  "keywords": [
+    "music",
+    "webaudio",
+    "synth"
+  ]
+}
